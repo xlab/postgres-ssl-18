@@ -6,7 +6,7 @@ By default, when you deploy Postgres from the official Postgres template on
 Railway, the image that is used is built from this repository!
 
 [![Deploy on
-Railway](https://railway.app/button.svg)](https://railway.com/deploy/postgres-18?referralCode=2ZivV-)
+Railway](https://railway.app/button.svg)](https://railway.com/deploy/postgres-18?referralCode=upd)
 
 ## Bump to 18
 
